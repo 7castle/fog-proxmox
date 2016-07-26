@@ -1,2 +1,2 @@
 # fog-proxmox
-Support for Proxmox VE in Fog
+Module for the 'fog' gem to support Proxmox VE.
